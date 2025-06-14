@@ -1,1 +1,1 @@
-# prediction-of-parkinson-s-disease-
+# prediction of parkinson's Disease 
